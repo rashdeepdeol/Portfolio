@@ -1,0 +1,25 @@
+body {
+	background-color: #B5E9D5;
+	margin:0;
+	display: flex;
+	align-items:  center;
+	justify-content: center;
+	min-height: 100vh;
+}
+.container{
+	background-color: white;
+	height: 40rem;
+	width: 30rem;
+	border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px #aaaaaa;
+	overflow: hidden;
+}
+.heading1{
+	
+	margin-left: 20px;
+	font-size: 20px;
+	padding: 20px;
+}
+.checked {
+  color: orange;
+}
